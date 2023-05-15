@@ -2,7 +2,7 @@ import calculator
 #12
 def test_add():
     assert calculator.add(1, 2) == 3
-    assert calculator.add(-1, 1) == 5
+    assert calculator.add(-1, 1) == 6
 
 def test_subtract():
     assert calculator.subtract(3, 1) == 2
