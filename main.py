@@ -1,2 +1,2 @@
-print('sirve intento pipeline 6')
+print('sirve intento pipeline 7')
 input("Press Enter to continue...")
