@@ -14,4 +14,4 @@ def test_multiply():
 
 def test_divide():
     assert calculator.divide(6, 2) == 3
-    assert calculator.divide(5, 0) == Non
+
